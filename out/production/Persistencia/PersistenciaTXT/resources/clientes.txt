@@ -1,0 +1,8 @@
+1@1004961630@Cedula de Ciudadania@Santiago@Gallego Gil@3226486094
+2@1004961678@Cedula de Ciudadania@Maria@Gomez@31136678282
+1@1@1@1@1@1
+1@2@2@2@2@2
+8@@8@8@8@8
+8@8@@@8@8
+8@8@8@8@8@88
+8@8@8@null@null@null
